@@ -27,6 +27,10 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
+exclude:
+  - AGENTS.md
+  - README.md
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
