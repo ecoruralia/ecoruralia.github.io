@@ -1,6 +1,13 @@
-## Guía de llama.cpp: Ejecutar LLM localmente, en cualquier hardware, desde cero
-01/07/2026 [Actualizado: 01/07/2026] EcoruralIA 65 min de lectura (13831 palabras)
-#llama.cpp #llm #ai #guía
+---
+title: "Guía de llama.cpp: Ejecutar LLM localmente, en hardware limitado y soberano, desde cero"
+date: 2026-07-01
+author: EcoruralIA
+tags: [llama.cpp, llm_gratis, ai_local, guía, soberanía, hardware]
+---
+
+## Guía de llama.cpp: Ejecutar LLM localmente, en hardware limitado y soberano, desde cero
+6 min de lectura (~1565 palabras)
+#llama.cpp #llm_gratis #ai_local #guía #soberanía #hardware
 
 ## Índice
 Desde el 2022 empecé a experimentar con LLMs…
